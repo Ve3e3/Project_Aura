@@ -1,11 +1,13 @@
 👾 Projeto: Assistente Virtual em Python (Aura) 👾
 
 📖 Descrição do Projeto
+
 Este projeto tem como objetivo o desenvolvimento de uma assistente virtual em Python, batizada de Aura. Ela é capaz de interagir com o usuário por meio de voz, compreender comandos básicos e executar ações simples, proporcionando uma experiência interativa e natural.
 
 A assistente combina tecnologias de reconhecimento de fala (Speech-to-Text) e síntese de voz (Text-to-Speech) para criar um fluxo de comunicação semelhante ao de assistentes digitais comerciais como Siri, Alexa e Google Assistant. O foco principal é o aprendizado e a experimentação com Python em um contexto de inteligência artificial básica.
 
 ✨ Funcionalidades
+
 Até o momento, o projeto contempla as seguintes funcionalidades:
 
 🎙️ Reconhecimento de Voz: Captura a fala do usuário através do microfone e a converte em texto, utilizando a biblioteca SpeechRecognition.
@@ -23,6 +25,7 @@ Responder a saudações e frases pré-definidas.
 🔄 Loop Interativo: A assistente opera em um loop contínuo, ouvindo e processando comandos até que receba um comando específico de encerramento.
 
 📂 Estrutura do Projeto
+
 O projeto está organizado da seguinte forma para facilitar a manutenção e escalabilidade:
 
 ProjetoAura/
@@ -43,6 +46,7 @@ Instalação
 Para instalar todas as dependências, execute o seguinte comando no seu terminal:
 
 Bash
+
 pip install -r requirements.txt
 🎯 Conceito e Objetivo
 O projeto foi criado como uma base para um assistente virtual personalizado e escalável. A ideia é que ele possa evoluir para:
@@ -56,6 +60,7 @@ Aprimorar a interação, simulando um assistente que entende contexto e responde
 O principal objetivo é aplicar e aprofundar conhecimentos em Python, incluindo estruturas de funções, loops, manipulação de áudio e lógica de programação voltada para IA.
 
 🚀 Próximos Passos
+
 O roadmap de desenvolvimento inclui:
 
 [ ] Processamento Inteligente de Comandos: Implementar uma lógica mais robusta para interpretar as intenções do usuário.
