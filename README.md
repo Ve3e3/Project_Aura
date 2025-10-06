@@ -1,4 +1,5 @@
 👾 Projeto: Assistente Virtual em Python (Aura) 👾
+
 📖 Descrição do Projeto
 Este projeto tem como objetivo o desenvolvimento de uma assistente virtual em Python, batizada de Aura. Ela é capaz de interagir com o usuário por meio de voz, compreender comandos básicos e executar ações simples, proporcionando uma experiência interativa e natural.
 
