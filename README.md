@@ -15,7 +15,9 @@ O projeto possui a seguinte estrutura:
 ProjetoAura/
 │
 ├─ main.py              # Código principal da assistente
+|
 ├─ requirements.txt     # Bibliotecas necessárias para rodar o projeto
+|
 └─ README.md            # Documentação do projeto
 
 Bibliotecas Utilizadas:
