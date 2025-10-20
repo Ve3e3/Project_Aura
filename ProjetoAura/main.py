@@ -11,14 +11,14 @@ reconhecedor = sr.Recognizer()
 
 with sr.Microphone() as fonte:
     print("Diga algo...")
-    reconhido = False
-    while not reconhido:
+    reconhecido = False
+    while not reconhecido:
         try:
             audio = reconhecedor.listen(fonte)
             texto = reconhecedor.recognize_google(audio, language='pt-BR')
             print(f"Você disse: {texto}")
             falar(f"Você disse: {texto}")
-            reconhido = True
+            reconhecido = True
         except sr.UnknownValueError:
             print("Não entendi, tente novamente...")
         except sr.RequestError:
