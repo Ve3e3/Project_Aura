@@ -48,6 +48,7 @@ Para instalar todas as dependências, execute o seguinte comando no seu terminal
 Bash
 
 pip install -r requirements.txt
+
 🎯 Conceito e Objetivo
 O projeto foi criado como uma base para um assistente virtual personalizado e escalável. A ideia é que ele possa evoluir para:
 
